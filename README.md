@@ -2,7 +2,7 @@
 
 A modern, powerful GUI tool to analyze Windows Event Log files (.evtx) and troubleshoot system crashes, unexpected shutdowns, and errors.
 
-
+![Event Log Analyzer](pic.png)
 
 ## 🚀 Quick Start
 
